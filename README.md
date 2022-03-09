@@ -3,7 +3,7 @@
 ## Connect with me here:
 - **[Portfolio](https://eric-yi.netlify.app/)**
 - **[LinkedIn](https://www.linkedin.com/in/eric-kangin-yi/)**
-- **[Email](mailto:erickanginyi@gmail.com)** **erickanginyi@gmail.com**
+- **[Email](mailto:erickanginyi@gmail.com)** (erickanginyi@gmail.com)
 <!-- 👋 -->
 
 <!--
