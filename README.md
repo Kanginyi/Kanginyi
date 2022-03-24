@@ -1,8 +1,14 @@
 # Bing Bong :^)
 
+## 1% gains when aggregated, add up to very significant results in the long run.
+
 ```
 while (!dead) {
-  code();  
+  bePositive();
+  impactOthersLives();
+  dontStopImproving();
+  enjoyTheJourney();
+  keepDoingWhatYouLove();
 }
 ```
 
