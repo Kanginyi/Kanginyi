@@ -1,7 +1,5 @@
 # Bing Bong :^)
 
-## 1% gains when aggregated, add up to very significant results in the long run.
-
 ```
 while (!dead) {
   bePositive();
@@ -16,6 +14,8 @@ while (!dead) {
 - **[Portfolio](https://eric-yi.netlify.app/)**
 - **[LinkedIn](https://www.linkedin.com/in/eric-kangin-yi/)**
 - **[erickanginyi@gmail.com](mailto:erickanginyi@gmail.com)**
+
+1% gains when aggregated, add up to very significant results in the long run.
 
 <!-- 👋 -->
 
