@@ -17,6 +17,8 @@ while (!dead) {
 
 1% gains when aggregated, add up to very significant results in the long run.
 
+![image](https://jamesclear.com/wp-content/uploads/2015/08/tiny-gains-graph.jpg)
+
 <!-- 👋 -->
 
 <!--
