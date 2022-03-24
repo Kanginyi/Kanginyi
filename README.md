@@ -1,5 +1,11 @@
 # Bing Bong :^)
 
+```
+while (!dead) {
+  code();  
+}
+```
+
 ## Connect with me here:
 - **[Portfolio](https://eric-yi.netlify.app/)**
 - **[LinkedIn](https://www.linkedin.com/in/eric-kangin-yi/)**
